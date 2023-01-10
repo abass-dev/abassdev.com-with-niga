@@ -1,0 +1,19 @@
+@import "./sass/global";
+@import "~bootstrap/scss/bootstrap";
+
+    .be-container {
+        text-align:center;
+        margin:15px
+    }
+
+    .be-color-dg {
+        color:#ff000b
+    }
+    .be-color-py {
+        color:#00ccff
+    }
+    code, .be-code {
+        background:#6663;
+        border-radius:2px;
+        padding:1px
+    }

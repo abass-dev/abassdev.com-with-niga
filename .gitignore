@@ -1,0 +1,25 @@
+### Cache ###
+var/cache/dev/
+.phpunit.result.cache
+### END ###
+
+### Dependencies ###
+composer.lock
+vendor/
+phpcs.xml
+phpunit.xml
+phpstan.neon
+### END ###
+
+### Nodejs ###
+node_modules
+package-lock.json
+### END ###
+
+### bin ###
+bin/
+### END ###
+
+### phpdotenv/phpdotenv ###
+.env
+### END ###

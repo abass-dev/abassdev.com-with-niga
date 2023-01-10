@@ -1,0 +1,19 @@
+{
+  "app_name": "Abassdev",
+  "app_version": "1.0",
+  "default_template": "twig",
+  "security": {
+    "http_protocol": "http"
+  },
+  "controller": {
+    "dir": "../src/Controller"
+  },
+  "entity": {
+    "dir": "../src/Entity"
+  },
+  "server": {
+    "port": "8000",
+    "host": "localhost",
+    "publicPath": "public"
+  }
+}
