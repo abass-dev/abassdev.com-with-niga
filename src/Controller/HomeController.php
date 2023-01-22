@@ -2,9 +2,9 @@
 
 namespace App\Controller;
 
-use Nigatedev\FrameworkBundle\Controller\AbstractController;
-use Nigatedev\FrameworkBundle\Attributes\Route;
-use Nigatedev\FrameworkBundle\Http\Request;
+use Niga\Framework\Controller\AbstractController;
+use Niga\Framework\Attributes\Route;
+use Niga\Framework\Http\Request;
 
 class HomeController extends AbstractController
 {

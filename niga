@@ -33,4 +33,4 @@ if (
     exit(1);
 }
 
-(new Nigatedev\Framework\Console\Console($argv));
+(new Niga\Framework\Console\Console($argv));
